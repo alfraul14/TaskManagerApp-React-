@@ -12,7 +12,8 @@ Estos pasos a seguir fueron probados en Window 10
     ```
 2. Nos ubicamos en la carpeta creada:
     ```sh
-    cd TaskManagerApp
+    cd TaskManagerApp-React-/
+
     ```
 3. Instalamos los paquetes de node:
    ```sh
